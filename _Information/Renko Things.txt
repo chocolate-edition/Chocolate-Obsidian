@@ -1,0 +1,15 @@
+- TODO -- Help Christi with the Nexus - Boss Rush Arena 5%, Christi need to invite me (?)
+- TODO -- Make Blue Skies Better :
+	- TODO -- Find New Mobs to add that would fit well with the 2 dimensions 40%
+		- Found Mod Unusual Prehistory, super cool
+			- TODO -- Need to see with the team if fossil, spawn in ow or not --> Better not, to keep the exclusivity of bs new mobs --> Maybe remove items/blocks to make dinos ?
+			- TODO -- Need to see with the team how to implement the deco plants, maybe certains BS mobs drop plants ? Would be cool for Sniffer dig drops actually
+		- Found Mod Odd Creatures addon for Unusual Prehistory, so well animated, maybe a "hidden gem" mod
+		- TODO -- Waiting to see Unusual Fish, not yet released, see if good, 1.19.2 ? --> need to check
+		- TODO -- Make a big list of all the natural spawn to modify. Need team after to code them in because SpawnUtility doesn't work on Renko's computer because Renko is goofy.
+	- TODO -- Modify quest items to get (?) 0%
+	- TODO -- Make more structures (White Palace 0%, Shaded Citadel 100%, City of Tears 0%)
+	- TODO -- Mini Structures (small everdawn shrine 100%)
+- TODO -- Find good mods for the End 0% (Didn't find anything yet)
+- TODO -- Find a way to implement lore 0% (no ideas yet)
+- TODO -- Ask Renko to build structures in the nether and what to build :p

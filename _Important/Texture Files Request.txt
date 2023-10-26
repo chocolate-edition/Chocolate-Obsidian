@@ -1,0 +1,16 @@
+This is the list of texture files I would need
+to modify the mobs that don't fit anywhere in BS
+I would like to do a texture pack with them
+to make them more fit
+
+- Velociraptor
+- Gigantopithecus
+- Tyrannosaurus Rex
+- Hwachavenator
+- Kentrosaurus
+- Majungasaurus
+- Megatherium
+- Pachycephalosaurus
+- Paraceratherium
+- Ulughbegsaurus
+- Triceratops

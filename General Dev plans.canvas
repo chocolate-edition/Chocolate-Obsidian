@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"dc6959253cb36afa","type":"text","text":"# 1.5","x":-600,"y":-240,"width":250,"height":60},
+		{"id":"a3128389a3c050e4","type":"text","text":"# 1.6","x":-80,"y":-240,"width":250,"height":60},
+		{"id":"cc426de13de7f7af","type":"text","text":"# 1.7","x":360,"y":-240,"width":250,"height":60},
+		{"id":"e9c17b9f0762fd9f","type":"text","text":"# Plans","x":-80,"y":-520,"width":250,"height":60},
+		{"id":"a6863124442a35fa","type":"text","text":"Get used to git","x":-905,"y":93,"width":250,"height":60},
+		{"id":"68e195bb909d8d81","type":"text","text":"Clear out todo list","x":-620,"y":93,"width":250,"height":60},
+		{"id":"d16bfc4c80b8d04a","type":"text","text":"Update crafting","x":-350,"y":93,"width":250,"height":60},
+		{"id":"15318a0dd55a3f74","type":"text","text":"Questbook overhaul","x":-292,"y":-113,"width":250,"height":60},
+		{"id":"097101fc33461d91","type":"text","text":"Iron spells","x":-780,"y":220,"width":250,"height":50},
+		{"id":"4290aa7c1c241a04","type":"text","text":"Nexus","x":235,"y":-83,"width":250,"height":50},
+		{"id":"2d51c04bd266287e","type":"text","text":"Events","x":540,"y":-93,"width":250,"height":60},
+		{"id":"7505eeba24cd85c1","x":497,"y":65,"width":250,"height":60,"type":"text","text":"NPCS"}
+	],
+	"edges":[
+		{"id":"3f187aafa5e1c2c3","fromNode":"e9c17b9f0762fd9f","fromSide":"bottom","toNode":"dc6959253cb36afa","toSide":"top"},
+		{"id":"8148435692db3c6b","fromNode":"e9c17b9f0762fd9f","fromSide":"bottom","toNode":"a3128389a3c050e4","toSide":"top"},
+		{"id":"e9a925410ba62ff6","fromNode":"e9c17b9f0762fd9f","fromSide":"bottom","toNode":"cc426de13de7f7af","toSide":"top"},
+		{"id":"4e0d88506d4a75b1","fromNode":"cc426de13de7f7af","fromSide":"bottom","toNode":"4290aa7c1c241a04","toSide":"top"},
+		{"id":"81f9d7cd9f26e23e","fromNode":"dc6959253cb36afa","fromSide":"bottom","toNode":"a6863124442a35fa","toSide":"top"},
+		{"id":"77e34613b34283c4","fromNode":"dc6959253cb36afa","fromSide":"bottom","toNode":"68e195bb909d8d81","toSide":"top"},
+		{"id":"216e81357b8868cf","fromNode":"dc6959253cb36afa","fromSide":"bottom","toNode":"d16bfc4c80b8d04a","toSide":"top"},
+		{"id":"ac00f171d8503016","fromNode":"a3128389a3c050e4","fromSide":"bottom","toNode":"15318a0dd55a3f74","toSide":"top"},
+		{"id":"2c44e5cd7bb7faa4","fromNode":"dc6959253cb36afa","fromSide":"bottom","toNode":"097101fc33461d91","toSide":"top"},
+		{"id":"538eb1088f9ca006","fromNode":"cc426de13de7f7af","fromSide":"bottom","toNode":"2d51c04bd266287e","toSide":"top"},
+		{"id":"7ac7c0884a9029f3","fromNode":"cc426de13de7f7af","fromSide":"bottom","toNode":"7505eeba24cd85c1","toSide":"left"}
+	]
+}

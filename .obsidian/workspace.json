@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "20a63f94b8620dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d4c8c056e34021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8775e9a775675d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Important/Mods, Bugs, and Changes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "521dfa39a14dd0f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5c027b0e4f4557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ed487854271a3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e732768602dfe181",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e488c75f1e3c703",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1051eb2ca47d7ecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fa2a6a14f9ac0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcaa105a2e71a57a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Important/Mods, Bugs, and Changes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f77350abf8be5014",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Important/Mods, Bugs, and Changes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c45be648d5fb4fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7476bdcd8b08dfbc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "400bfdb0dec64760",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Important/Mods, Bugs, and Changes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "b8775e9a775675d6",
+  "lastOpenFiles": [
+    "_Important/TODO.md",
+    "_Important/Boss Rush Plan.md",
+    "_Important/Mods, Bugs, and Changes.md",
+    "_Information/Trailer outline.md",
+    "_Information/Spread the word.md",
+    "1. Turn off f3+h, shaders by default, sprint to ctrl,.md",
+    "General Dev plans.canvas",
+    "BU.md",
+    "_Important/_Pre-Submission Check List.md",
+    "Pasted image 20231024144902.png.md",
+    "Pasted image 20231024144902.png",
+    "_Information/Renko Things.txt"
+  ]
+}
