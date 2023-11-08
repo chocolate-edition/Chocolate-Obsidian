@@ -4,6 +4,7 @@
 - [ ] Npcs 
 - [ ] Boss rush 
 - [ ] Aether+ twilight forest combo(holding off for fixing current stuff)(3 eyes aether, 9 eyes buffed twilight forest)   
+- [ ] Make less barrier to entry 
 - [ ] Alternative for Terralith (Tectonic, Wwoo vanilla only, Byg for end/nether) 
 # 1.6
 # 1.7 
