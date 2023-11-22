@@ -1,23 +1,23 @@
 - tODO -- Help Christi with the Nexus - Boss Rush Arena 35%, Christi need to invite me
 - TODO -- Make Blue Skies Better :
-	-- Find New Mobs to add that would fit well with the 2 dimensions
-		- Found Mod Unusual Prehistory, super cool
-			-- Need to see with the team if fossil, spawn in ow or not
-     				- Christi said that we should remove fossil from overworld gen (not too laggy ?)
-     				- keep amber
-			-- Need to see with the team how to implement the deco plants
-     				- New plants didn't stray far from the place they were recreated (new plants will be found in small sub reckage mini structures)
-		- Found Mod Odd Creatures addon for Unusual Prehistory, so well animated
-		- Checking Unusual Fish Mod that just come out
-	-- Make more structures (White Palace 85%, Shaded Citadel 100%, City of Tears 0%)
-	- TODO -- Mini Structures
-  		  idea :
-   			- The Everbright and Everdawn Rose Bush, a big rose bush like structure, inspired by real life "Rosa sp." in the automn while walking in my village lol
-   			- small Sub reckage in the everbright seas, inspired from Subnautica bases
+- Find New Mobs to add that would fit well with the 2 dimensions
+- Found Mod Unusual Prehistory, super cool
+- Need to see with the team if fossil, spawn in ow or not
+- Christi said that we should remove fossil from overworld gen (not too laggy ?)
+- keep amber
+- Need to see with the team how to implement the deco plants
+- New plants didn't stray far from the place they were recreated (new plants will be found in small sub reckage mini structures)
+- Found Mod Odd Creatures addon for Unusual Prehistory, so well animated
+- Checking Unusual Fish Mod that just come out
+- Make more structures (White Palace 85%, Shaded Citadel 100%, City of Tears 0%)
+- TODO -- Mini Structures
+- idea :
+- The Everbright and Everdawn Rose Bush, a big rose bush like structure, inspired by real life "Rosa sp." in the automn while walking in my village lol
+- small Sub reckage in the everbright seas, inspired from Subnautica bases
 - TODO -- Find good mods for the End 10%
-   	- Waiting for release of Endergetic my beloved
-   	- mcreator mods lol
+- Waiting for release of Endergetic my beloved
+- mcreator mods lol
 - TODO -- Ask Renko to build structures in the nether and what to build :p
-  	idea:
-  		- Nightmare Circus (Clown, Nightmare, Creepy Vibes, small prison underneath),
-  		- Infested Town (an abandonned rotting town infested with tons of bugs and corpses, would be nice with new update of Born in Chaos)
+- idea:
+- Nightmare Circus (Clown, Nightmare, Creepy Vibes, small prison underneath),
+- Infested Town (an abandonned rotting town infested with tons of bugs and corpses, would be nice with new update of Born in Chaos)
