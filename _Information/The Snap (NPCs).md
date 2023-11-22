@@ -16,12 +16,4 @@
 	16. Plague Doctor(Everdawn Villages)
 	17. Highwayman(Everdawn Villages)
 	18. EverKeeper(spawns in white palace and shaded citadel, sells diff things)
-	19. Enderling Traveler(
-	
-	
-	
-	
-	
-	
-	
-	
+	19. Enderling Traveler
