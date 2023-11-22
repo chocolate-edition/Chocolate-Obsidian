@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Important/ARCHIVED NOTES DONT USE.md",
+                "file": "_Information/NPC Mega List.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Important/ARCHIVED NOTES DONT USE.md",
+                "file": "_Information/NPC Mega List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Important/ARCHIVED NOTES DONT USE.md",
+                "file": "_Information/NPC Mega List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Important/ARCHIVED NOTES DONT USE.md"
+                "file": "_Information/NPC Mega List.md"
               }
             }
           }
@@ -157,17 +157,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "65ed487854271a3d",
+  "active": "b8775e9a775675d6",
   "lastOpenFiles": [
-    "_Important/TODO.md",
+    "_Information/Spread the word.md",
+    "_Important/_Pre-Submission Check List.md",
+    "_Information/The Snap (NPCs).md",
+    "_Information/Renko Things.md",
+    "_Information/NPC Mega List.md",
+    "_Information/NPC Mega List.txt",
+    "Untitled",
+    "_Information/The Snap (NPCs)",
+    "_Information/NPC Mega List",
     "_Important/ARCHIVED NOTES DONT USE.md",
     "_Important/Boss Rush Plan.md",
-    "_Information/Trailer outline.md",
-    "_Information/Spread the word.md",
+    "_Important/TODO.md",
     "1. Turn off f3+h, shaders by default, sprint to ctrl,.md",
+    "_Information/Trailer outline.md",
     "General Dev plans.canvas",
     "BU.md",
-    "_Important/_Pre-Submission Check List.md",
     "Pasted image 20231024144902.png.md",
     "Pasted image 20231024144902.png",
     "_Information/Renko Things.txt"
