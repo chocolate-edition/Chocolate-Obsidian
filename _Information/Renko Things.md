@@ -1,16 +1,23 @@
-- TODO -- Help Christi with the Nexus - Boss Rush Arena 15%, Christi need to invite me
+- tODO -- Help Christi with the Nexus - Boss Rush Arena 35%, Christi need to invite me
 - TODO -- Make Blue Skies Better :
-	- DONE~ -- Find New Mobs to add that would fit well with the 2 dimensions
+	-- Find New Mobs to add that would fit well with the 2 dimensions
 		- Found Mod Unusual Prehistory, super cool
-			- DONE~ -- Need to see with the team if fossil, spawn in ow or not --> Better not, to keep the exclusivity of bs new mobs --> Maybe remove items/blocks to make dinos ?
-			- DONE~ -- Need to see with the team how to implement the deco plants, maybe certains BS mobs drop plants ? Would be cool for Sniffer dig drops actually
-		- Found Mod Odd Creatures addon for Unusual Prehistory, so well animated, maybe a "hidden gem" mod
-		- TODO -- Waiting to see Unusual Fish, not yet released, see if good, 1.19.2 ? --> need to check
-		- TODOTODO -- Make a big list of all the natural spawn to modify. Need team after to code them in because SpawnUtility doesn't work on Renko's computer because Renko is goofy.
-	- TODO -- Modify quest items to get (?) 0%
-	- TODO -- Make more structures (White Palace 51.01%, Shaded Citadel 100%, City of Tears 0%)
-	- TODO -- Mini Structures (idea : Rose Bush and Inverted Rose Bush)
-- TODO -- Find good mods for the End 10% (Endergetic my beloved)
-- DONE? -- Find a way to implement lore 0% (no ideas yet)
-	- Task kinda changed ?
+			-- Need to see with the team if fossil, spawn in ow or not
+     				- Christi said that we should remove fossil from overworld gen (not too laggy ?)
+     				- keep amber
+			-- Need to see with the team how to implement the deco plants
+     				- New plants didn't stray far from the place they were recreated (new plants will be found in small sub reckage mini structures)
+		- Found Mod Odd Creatures addon for Unusual Prehistory, so well animated
+		- Checking Unusual Fish Mod that just come out
+	-- Make more structures (White Palace 85%, Shaded Citadel 100%, City of Tears 0%)
+	- TODO -- Mini Structures
+  		  idea :
+   			- The Everbright and Everdawn Rose Bush, a big rose bush like structure, inspired by real life "Rosa sp." in the automn while walking in my village lol
+   			- small Sub reckage in the everbright seas, inspired from Subnautica bases
+- TODO -- Find good mods for the End 10%
+   	- Waiting for release of Endergetic my beloved
+   	- mcreator mods lol
 - TODO -- Ask Renko to build structures in the nether and what to build :p
+  	idea:
+  		- Nightmare Circus (Clown, Nightmare, Creepy Vibes, small prison underneath),
+  		- Infested Town (an abandonned rotting town infested with tons of bugs and corpses, would be nice with new update of Born in Chaos)
